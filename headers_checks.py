@@ -1,6 +1,6 @@
 import requests
-# https://github.com/wkeeling/selenium-wire
-domain = 'https://rebiz.com'
+
+domain = ''
 
 
 def check_headers(domain: str):
