@@ -58,8 +58,8 @@ def cyber_checks_automation(input):
 
 
 if __name__ == '__main__':
-    hostname = "rebiz.com"  # example
-    hostname_1 = 'idcleveland.com'
+    hostname = " "  # example
+    hostname_1 = ' '
 
     main_window = tkinter.Tk()
     main_window.geometry('300x100')
